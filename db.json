@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "text": "take test",
+      "day": "Monday",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Say Something",
+      "day": "Tuesday",
+      "reminder": true,
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
